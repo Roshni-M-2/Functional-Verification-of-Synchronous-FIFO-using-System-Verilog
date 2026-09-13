@@ -18,6 +18,7 @@ class transaction;
       WRITE      : begin wr_en = 1; rd_en = 0; end
       READ       : begin wr_en = 0; rd_en = 1; end
       READ_WRITE : begin wr_en = 1; rd_en = 1; end
+      default    : begin wr_en = 0; rd_en = 0; end // unreachable: op_e is fully enumerated
     endcase
   endfunction
 
