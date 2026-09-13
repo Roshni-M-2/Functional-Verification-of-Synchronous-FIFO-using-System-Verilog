@@ -104,12 +104,6 @@ The supplied Vivado Simulator 2023.1 code coverage report contains Statement, Br
 | **Condition** | **100%** |
 | **Toggle** | **17.42%** |
 
-See:
-
-`tb/coverage/code_coverage/dashboard.html`
-
-for the complete report.
-
 ### 2. Functional Coverage
 
 The supplied Vivado functional coverage report shows:
@@ -119,14 +113,6 @@ The supplied Vivado functional coverage report shows:
 | **Functional Coverage** | **100%** |
 | **Instance Coverage** | **100%** |
 | Tests | **1** |
-
-The functional coverage report contains the monitor covergroup, cover points and cross coverage.
-
-See:
-
-`tb/coverage/functional_coverage/dashboard.html`
-
-for the complete report.
 
 ## Tools
 
