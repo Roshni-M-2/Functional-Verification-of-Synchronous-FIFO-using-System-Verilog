@@ -37,18 +37,8 @@ Functional-Verification-of-Synchronous-FIFO-using-SystemVerilog/
 │   ├── top.sv
 │   
 |── coverage/
-│       ├── code_coverage/
-│       │   ├── dashboard.html
-│       │   ├── files.html
-│       │   ├── modules.html
-│       │   ├── file1.html ... file7.html
-│       │   └── mod1.html ... mod7.html
-│       │
-│       └── functional_coverage/
-│           ├── dashboard.html
-│           ├── groups.html
-│           └── grp0.html
-│
+│       ├── code_coverage.png
+│       ├── functional_coverage.png   
 ```
 
 ## RTL Design
